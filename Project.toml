@@ -1,0 +1,4 @@
+name = "FrejusJuliaODE14"
+uuid = "33f87d79-1a15-46d1-b3c1-0492b22cbec8"
+version = "0.1.0"
+authors = ["vlouvet <violaine.louvet@univ-grenoble-alpes.fr>"]
